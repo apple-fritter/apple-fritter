@@ -1,3 +1,4 @@
+🌠🌠🌠🌠🌠🌠🌠
 - 👋 Hi, I’m @apple-fritter
 - 👀 I’m interested in programming, linux, education, nature, and being kind.
 - 🌱 I’m currently learning how to use GitHub. It is a fun experience, so far.
