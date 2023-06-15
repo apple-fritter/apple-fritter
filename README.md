@@ -1,4 +1,5 @@
 #### 👋 Hi, I’m `@apple-fritter`
+#### 🚌 I am `van life` and so can you!
 #### 👀 I’m interested in `programming`, `linux`, `Internet Relay Chat`, `education`, `nature`, and `being kind`.
 #### 🌱 I’m currently `learning how to use GitHub`. It is a `fun experience`, so far. I often code from mobile, so please be patient with my updates!
 #### 💞️ I’m looking to `collaborate on projects` that `facilitate education`, `aide those with impairments`, and `keep minds active` and `communicating`. I'm particularly interested in `exploring` [Rust](https://www.rust-lang.org/) further. I am fascinated by `machine learning` and `NLP`.
