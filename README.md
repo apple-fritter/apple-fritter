@@ -1,10 +1,16 @@
-#### 👋 Hi, I’m `@apple-fritter`
-#### 🚌 I am `van life` and so can you!
-#### 👀 I’m interested in `programming`, `linux`, `Internet Relay Chat`, `education`, `nature`, and `being kind`.
-#### 🌱 I’m currently `learning how to use GitHub`. It is a `fun experience`, so far. I often code from mobile, so please be patient with my updates!
-#### 💞️ I’m looking to `collaborate on projects` that `facilitate education`, `aide those with impairments`, and `keep minds active` and `communicating`. I'm particularly interested in `exploring` [Rust](https://www.rust-lang.org/) further. I am fascinated by `machine learning` and `NLP`.
-#### 📫 My [linktree](http://linktr.ee/apple_fritter) has options for `reaching out` to me and `contributing` to my causes.
-#### 😵 I enjoy visiting [SlashDot](https://slashdot.org/), [DistroWatch](https://distrowatch.com/), and [Hacker News](https://news.ycombinator.com/), multiple times daily. If you have a `tech blog` you'd `like to share`, I have room in my `bookmarks`!
+👋 Hi, I’m @apple-fritter 🍏🍩
+
+🚌 Join me in the `adventure of van life` and embrace the `freedom of the open road`! 🚐💨
+
+👀 As an explorer of the digital realm, I'm passionate about programming, linux, Internet Relay Chat, education, nature, and being kind. 🌍💻✨
+
+🌱 Currently, I'm on a thrilling journey of mastering GitHub. It's an exhilarating experience, and I'm even coding on the go with my mobile! So please bear with me as I update. ⚡📱
+
+💞️ I’m eagerly seeking collaborative projects that empower education, assist individuals with impairments, and stimulate active and meaningful communication. I'm particularly excited about exploring the endless possibilities of Rust 🦀. I'm also captivated by the realms of machine learning and NLP. Let's innovate together! 🤝🚀
+
+📫 Reach out to me and become a part of my endeavors through my linktree. Feel free to contribute to my causes and let's make a positive impact on the world! 🌟🙌
+
+😵 I'm a regular visitor of tech havens like SlashDot, DistroWatch, and Hacker News. If you have an intriguing tech blog that you'd love to share, I've got room for it in my bookmarks! Let's exchange knowledge and expand our horizons! 📚💡
 
 <!---
 apple-fritter/apple-fritter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
