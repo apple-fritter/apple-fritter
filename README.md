@@ -1,7 +1,6 @@
 <table>
   <tr>
     <td style="padding: 1px;">
-      <img src="fritter.gif" alt="Fritter" width="400" height="244">
     </td>
     <td style="padding: 1px; vertical-align: top;">
       <p align="left">👋 Hi, I’m @apple-fritter 🍏🍩</p>
