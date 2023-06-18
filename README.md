@@ -1,22 +1,7 @@
-<style>
-  table {
-    background-image: url("hackers1995.77197.jpg");
-    background-size: cover; /* or background-size: contain; */
-    background-repeat: no-repeat;
-    background-position: center;
-    border-collapse: collapse;
-  }
-
-  td {
-    padding: 1px;
-    border: none;
-    vertical-align: top;
-  }
-</style>
-
 <table>
   <tr>
     <td>
+      <img src="hackers1995.jpg" alt="Hackers 1995">
     </td>
     <td>
       <p align="left">👋 Hi, I’m @apple-fritter 🍏🍩</p>
