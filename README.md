@@ -13,7 +13,7 @@
 | I have intermediate experience in [Rust](https://github.com/apple-fritter?tab=repositories&q=&type=public&language=rust&sort=)  | У меня есть средний уровень опыта в [Rust](https://github.com/apple-fritter?tab=repositories&q=&type=public&language=rust&sort=)  |
 | Contributor to [machine learning projects](https://github.com/apple-fritter?tab=repositories&q=learning&type=&language=&sort=)  | Участник [проектов машинного обучения](https://github.com/apple-fritter?tab=repositories&q=learning&type=&language=&sort=)  |
 | Involved in [NLP (Natural Language Processing)](https://github.com/apple-fritter?tab=repositories&q=nlp&type=&language=&sort=)  | Участник в [NLP (Обработка естественного языка)](https://github.com/apple-fritter?tab=repositories&q=nlp&type=&language=&sort=)  |
-
+| I draw a lot of inspiration from [Terry A. Davis](https://archive.org/details/TerryADavis_TempleOS_Archive) | Я много черпаю вдохновения из [Терри А. Дэвиса](https://archive.org/details/TerryADavis_TempleOS_Archive) |
 </div>
 
 http://linktr.ee/apple_fritter
