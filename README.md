@@ -1,5 +1,6 @@
 <div align="center">
-  
+<img src="https://raw.githubusercontent.com/apple-fritter/apple-fritter/refs/heads/main/apple-fritter.png">
+
 | <kbd>apple</kbd><kbd>-</kbd><kbd>fritter</kbd>  | <kbd>эпл</kbd><kbd>-</kbd><kbd>фриттер</kbd> |
 | ------------- | ------------- |
 | Enthusiastic about programming  | Восторг по программированию  |
